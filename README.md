@@ -1,8 +1,8 @@
 WSC-faucet
 ======
-**WSC-faucet** is a simple faucet that pays out a configurable amount of WSC to an WSC address provided as a URL parameter.
+**WSC-faucet** is a simple faucet that pays out a configurable amount of WSC to an WSC address provided as a URL parameter
 
-The faucet does not pay out WSC if the sender already has more WSC than the payout amount.
+The faucet does not pay out WSC if the sender already has more WSC than the payout amount
 
 ## Usage
 Simply send a request to
